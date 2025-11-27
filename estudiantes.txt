@@ -1,0 +1,6 @@
+Nombre: Cristian Suarez
+Año nacimiento: 2005
+ID: 1063483874
+Promedio: 5
+Email: csuarezra@unal.edu.co
+---------------------------------------
